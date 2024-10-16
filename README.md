@@ -8,7 +8,7 @@ In this project, you are creating a game where the user can get random numbers f
 - Then ask the user "What is the largest number on the dice? ".
 ## Step 2: (10 pts) 
 - Print out the result of the dice roll. "You rolled a 3 and a 5."
-- Also, print out the results of the 5 basic math operations using these 2 random numbers.
+- Also, print out the results of the 6 basic math operations using these 2 random numbers.
 - See the example program run output below.
 
 ## Example program run output:
@@ -23,4 +23,5 @@ The difference of 7 and 2 is 5.
 The product of 7 and 2 is 14.
 The quotient of 7 and 2 is 3.5.
 The result of integer division of 7 and 2 is 3.
+The remainder of dividing 7 by 2 is 1.
 ```
