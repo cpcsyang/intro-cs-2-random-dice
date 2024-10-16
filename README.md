@@ -18,7 +18,7 @@ Hello, Frank. Welcome to Mr. Yang's Dice Game.
 What is the smallest number on the dice? 2
 What is the largest number on the dice? 10
 You have rolled a 7 and a 2.
-The sum of the 7 and 2 is 9.
+The sum of 7 and 2 is 9.
 The difference of 7 and 2 is 5.
 The product of 7 and 2 is 14.
 The quotient of 7 and 2 is 3.5.
