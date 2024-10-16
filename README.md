@@ -22,6 +22,5 @@ The sum of the 7 and 2 is 9.
 The difference of 7 and 2 is 5.
 The product of 7 and 2 is 14.
 The quotient of 7 and 2 is 3.5.
-The result of integer division of 7 and 2 is 3.
-The remainder of dividing 7 by 2 is 1.
+The result of integer division of 7 and 2 is 3 with remainder 1.
 ```
